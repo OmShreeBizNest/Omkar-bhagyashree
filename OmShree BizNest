@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OmShree BizNest</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #ff7043;
+            color: white;
+            padding: 20px 10%;
+            text-align: center;
+        }
+        nav {
+            background-color: #ff5722;
+            padding: 10px 10%;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px 10%;
+            line-height: 1.6;
+        }
+        .about {
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to OmShree BizNest</h1>
+        <p>Rooted in Faith, Built on Trust</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Our Services</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="about">
+        <div class="about">
+            <h2>About Us</h2>
+            <p>OmShree BizNest combines faith, trust, and innovation to deliver meaningful services across diverse industries. Inspired by Ganpati Bappa's blessings, our journey started with a vision to connect with customers through quality and reliability. Staying true to our core values of care and integrity, we aim to create lasting relationships and a brighter future together.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Customized Solutions for Businesses</li>
+            <li>Quality Assurance in Every Service</li>
+            <li>Reliable Support Across Industries</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or want to learn more about our services? Reach out to us at:</p>
+        <p>Email: contact@omshreebiznest.com</p>
+        <p>Phone: +91 12345 67890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 OmShree BizNest. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
